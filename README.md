@@ -1,7 +1,7 @@
 # ชื่อ Repository
  select-topic-week01
 ## Overview
-สร้างขึ้นเพื่อเทสการใช้งานและฝึกการใช้งานเบื้องต้น
+สร้างขึ้นเพื่อเทสการใช้งานและส่งงาน
  
 ## Owner
 [ลิงก์ไปยังไฟล์ Myname.md](https://github.com/Kittanay-08/select-topic-week01/blob/main/Myname.md)
